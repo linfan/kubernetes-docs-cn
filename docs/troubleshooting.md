@@ -8,7 +8,7 @@
    * [应用程序相关的故障排查](/docs/user-guide/application-troubleshooting) - 当遇到将代码部署到Kubernetes时发生的各类错误时，请参考这部分内容。
    * [集群相关的故障排查](/docs/admin/cluster-troubleshooting) - 当集群系统的管理者发现Kubernetes的集群工作不正常时，请参考这部分内容。
 
-你还可以通过查看Kubernetes的[发布页面](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG.md)查看所用版本存在的已知问题。
+你还可以通过查看Kubernetes的[已知问题](/docs/user-guide/known-issues)页面查看所用版本存在的已知问题。
 
 ### 寻求帮助
 
@@ -20,7 +20,7 @@
 
 我们还总结了一些常见问题的列表：
 
-   * [日常使用的常见问题](https://github.com/kubernetes/kubernetes/wiki/User-FAQ)
+   * [用户常见问题](https://github.com/kubernetes/kubernetes/wiki/User-FAQ)
    * [开发和调试的常见问题](https://github.com/kubernetes/kubernetes/wiki/Debugging-FAQ)
    * [服务相关的常见问题](https://github.com/kubernetes/kubernetes/wiki/Services-FAQ)
 
