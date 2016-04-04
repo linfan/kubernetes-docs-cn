@@ -73,8 +73,8 @@ h2, h3, h4 {
     <a href="/docs/whatisk8s/" class="button">阅读Kubernetes简介</a>
   </div>
   <div class="col3rd">
-    <h3>简单的案例</h3>
-    <p>在这个快速入门案例中，我们会创建一个Kubernetes的实例并在上面运行一个简单的Node.js "Hello World"应用。只需要几分钟，你就能够从零开始通过Kubernetes的方式将应用部署到谷歌容器引擎（Google Container Engine）上。</p>
+    <h3>快速入门</h3>
+    <p>我们会用Docker在你的机器上创建一个Kubernetes实例，并在上面运行一个简单的Node.js "Hello World"应用。只需要5分钟，你就可以得到一个可部署的应用。</p>
     <a href="/docs/hellonode/" class="button">让我们开始吧</a>
   </div>
   <div class="col3rd">
